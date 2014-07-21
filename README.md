@@ -1,0 +1,4 @@
+scragur
+=======
+
+Scrape Imgur galleries
